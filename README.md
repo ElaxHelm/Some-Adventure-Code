@@ -1,1 +1,1 @@
-# Some Adventure Code
+# This is all the code I used for our capstone project: Some Adventure.  It is a 2D game made within Unity using C#.  I worked on the Enemies as well as the AI.  I also helped with the Main Menu GUI as well as the Game GUI and controls for volume, resolutions, graphics, etc.  I implemented Saving and Loading for the game using serialization and deserialization with our own custom file extension.
